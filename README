@@ -1,0 +1,3 @@
+A simple sketch using the SHARP GP2Y0A21YK0F IR distance sensor and an LCD 1x16 to print the distance.
+
+2012-05-20 (v0.1) Set up IR sensor and print on LCD. Not very reliable fitting distance (~8cm fault).
